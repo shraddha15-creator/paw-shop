@@ -2,7 +2,7 @@ const products = [
     {
         _id: '1',
         name: 'Toy',
-        image: '/images/toy.jpg',
+        image: '/images/toys.jpg',
         description: 'JAINSONS PET PRODUCTS Dog Chew Knot Ball Woven Braided Rainbow Bouncy Rubber Toy with Jingle Bell Inside for Pet Training',
         brand: 'Jainson',
         category: 'Dog Toy',
@@ -19,7 +19,7 @@ const products = [
         brand: 'Slatters',
         category: 'Dog ED',
         price: '35',
-        countInStock:'4',
+        countInStock:'3',
         rating: '4.5',
         numReviews: '3',
     },
@@ -38,7 +38,7 @@ const products = [
     {
         _id: '4',
         name: 'Biscuits',
-        image: './images/biscuits.jpg',
+        image: '/images/biscuits.jpg',
         description: 'Healthy Treats Himalaya Adult Dog Biscuits with Chicken Treat 1 Kg -Pack of 2',
         brand: 'Himalaya',
         category: 'Dog Biscuits',
@@ -50,7 +50,7 @@ const products = [
     {
         _id: '5',
         name: 'House',
-        image: './images/house.jpg',
+        image: '/images/house.jpg',
         description: 'AmazonBasics Elevated Portable Pet House - Medium, Black',
         brand: 'Amazon basis',
         category: 'Dog House',
@@ -62,7 +62,7 @@ const products = [
     {
         _id: '6',
         name: 'Mouth Cover',
-        image: './images/mouthCover.jpg',
+        image: '/images/mouthCover.jpg',
         description: 'MUNCHOS Adjustable High Quality Muzzle cum Mouth Cover / Basket Cage Collar for Dog For Extra Care - Large',
         brand: 'Munchos',
         category: 'Dog Mouth Cover',
@@ -74,7 +74,7 @@ const products = [
     {
         _id: '7',
         name: 'Pedigree',
-        image: './images/pedigree.jpg',
+        image: '/images/pedigree.jpg',
         description: 'Pedigree Adult Dry Dog Food (High Protein Variant) Chicken, Egg & Rice, 10kg Pack',
         brand: 'Pedigree',
         category: 'Dog food',
